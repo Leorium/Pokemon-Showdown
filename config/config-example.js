@@ -15,7 +15,7 @@ exports.bindaddress = '0.0.0.0';
 exports.special = ['princesky'];
 
 /* serverIp used for custom avatars */
-exports.serverIp = "";
+exports.serverIp = "solgaleolunalayt";
 
 /* X amount of players needed in tournaments to earn rewards */
 exports.sizeRequiredToEarn = 2;
